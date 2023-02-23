@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am trained musician and used to play guitar for 8 hours a day! 
 -->
+![Header](./Mike-Brewer-github-header-image.png)
